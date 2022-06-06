@@ -7,7 +7,8 @@
 	"workspaceFolder": "/root/workspace",
 	"extensions": [
         // Java extensions
-        "vscjava.vscode-java-pack"
+        "vscjava.vscode-java-pack",
+		"redhat.java"
 		// git extensions that are highly recommended
 		"eamodio.gitlens",
 		"mhutchie.git-graph",
